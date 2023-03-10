@@ -1,0 +1,206 @@
+@media screen and (min-width: 480px) {
+
+body{
+    background-color: papayawhip;
+    padding: 0%; 
+    margin: 0%; 
+}
+#hs{
+    color: yellow;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+
+}
+i{
+    color: white;
+}
+#hm{
+    color: yellow;
+}
+.navigation{
+    display: flex;
+    display: inline;
+    margin-left: 200px;
+    /* padding: 30px,16px; */
+    gap: 1O0px;
+}
+.navigation a{
+    padding: 40px;
+}
+.navigation a:hover{
+    cursor: pointer;
+}
+#phone{
+    width: 300px;
+    height: 400px;
+}
+button{
+    font-size: 20px;
+    background-color: yellow;
+    color: white;
+    border-radius: 2%;
+    border: none;
+    margin: 10px,30px;
+}
+img{
+    width: 270px;
+    height:400px
+}
+.container{
+   padding-left: 50px;
+   display: flex;
+}
+.container2{
+    display: block;
+}
+.food{
+    margin-left: 400px;
+    font-weight: bold;
+}
+#store{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+
+}
+.image{
+    display:flex;
+    gap:35px;
+}
+.offer{
+    display: flex;
+    padding: 5%;
+}
+.offer1{
+    margin-left: 100px;
+}
+p{
+    color: gray;
+}
+p2{
+    color: yellow;
+}
+
+.sales{
+   margin-left: 200px;
+   font-weight: lighter;
+}
+.description{
+    display: flex;
+    gap:50px;
+    margin-left:100px
+}
+.burger{
+    display :flex;
+}
+.burg{
+    background-color: yellow;
+    width: 200px;
+    height:200px;
+}
+.salads{
+    display: flex;
+}
+.salad1{
+    width: 200px;
+    height:200px;
+    background-color: yellow;
+}
+.location{
+    display: flex;
+}
+.loc{
+    width: 200px;
+    height: 200px;
+}
+#bee{
+    font-weight:bolder;
+    font-size: 30px;
+}
+.service{
+    display: flex;
+}
+.test{
+    margin-left: 300px;
+}
+#boy{
+    width: 150px;
+    height: 150px;
+
+}
+.boys{
+    gap: 50px;
+    padding-left: 200px;
+}
+.parag{
+    margin-left: 500px;
+}
+#arrow{
+    gap: 20px;
+    width: 50px;
+    height: 50px;
+}
+#quets{
+    width: 60px;
+    height: 50px;
+}
+.del{
+    display: flex;
+    gap: 40px;
+    padding: 100px;
+    background-color:papayawhip ;
+}
+.google{
+    width: 100px;
+    height: 50px;
+}
+input{
+    border: none;
+    background-color: white;
+    margin:20px,40px;
+}
+#email{
+    font-size: 20px;
+    background-color: white;
+    color: white;
+    border-radius: 2%;
+    border: none;
+    margin: 30px,50px;
+}
+.sus{
+    padding-left: 70px;
+    background-color: papayawhip;
+    display: flex;
+    gap: 70px;
+   
+}
+.news{
+    display: block;
+}
+.foot{
+    display: flex;
+    gap:90px;
+    background-color: rgb(17, 5, 5);
+    color: white;
+    padding-left: 10%;
+}
+.cop{
+    display: flex;
+    gap:40px;
+    padding-left: 300px;
+    color: white;
+    background-color: yellow;
+}
+.bot{
+    background-color: white;
+    color: yellow;
+    margin: 10px,15px;
+}
+
+
+
+
+
+
+
+
+}
